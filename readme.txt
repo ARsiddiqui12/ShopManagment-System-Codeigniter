@@ -1,4 +1,4 @@
-Shop Management system Made on Codeigniter Framework
+Codeigniter Based Shop Management System
 By Abdul Rehman Siddiqui
 Swe.abdulrehman@gmail.com
 0312-3214806
